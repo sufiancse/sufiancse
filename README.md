@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/yFfVy9sL/abu-sufin-github-profile-1.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/yFfVy9sL/abu-sufin-github-profile-1.png" alt="Banner" width="100%" height="auto" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Md.Abu Sufian</h1>
