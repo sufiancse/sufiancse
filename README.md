@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/yFfVy9sL/abu-sufin-github-profile-1.png" alt="Banner" width="100%" height="auto" />
+  <img src="https://i.ibb.co/yFfVy9sL/abu-sufin-github-profile-1.png" alt="Banner" width="100%" height="100%" />
 </p>
 
 
