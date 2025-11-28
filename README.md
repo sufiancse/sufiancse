@@ -4,7 +4,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Md.Abu Sufian</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Nur+Adnan....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">Full-stack Developer | Building real-world digital experiences</h3>
 
 - 🔭 I’m currently working on a **Zap-Shift Project (Currier Service Website).**
