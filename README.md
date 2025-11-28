@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://i.ibb.co/yFfVy9sL/abu-sufin-github-profile-1.png" alt="Banner" width="100%" height="100%" />
+  <img src="https://i.ibb.co.com/rR4XVtVs/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Abu Sufian's Banner" width="100%" height="100%" />
 </p>
 
 
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Nur+Adnan....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Abu+Sufian....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <h3 align="center">Full-stack Developer | Building real-world digital experiences</h3>
