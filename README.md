@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md.Abu Sufian</h1>
-<h3 align="center">MERN Stack Developer | Building real-world digital experiences</h3>
+<h3 align="center">Full-stack Developer | Building real-world digital experiences</h3>
 
 - 🔭 I’m currently working on a **Zap-Shift Project (Currier Service Website).**
 
