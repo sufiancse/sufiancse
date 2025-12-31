@@ -22,9 +22,9 @@
 
 </p>
 
-- ♨ Check out my portfolio and projects at [https://abu-sufian.web.app/](https://abu-sufian.web.app/)
+- ♨ Check out my portfolio and projects at [https://abusufian.pages.dev/](https://abusufian.pages.dev/)
 
-- 🌱 I’m currently learning **TypeScript,NextJs, Redux**
+- 🌱 I’m currently learning **TypeScript, NextJs, Redux**
 
 - 💬 Ask me about **Html, CSS, JavaScript, React, Node Js, Express Js, MongoDB**
 
